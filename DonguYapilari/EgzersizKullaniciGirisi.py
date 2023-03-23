@@ -1,4 +1,8 @@
-print("Kullanıcı Girişi")
+print("""
+---------------------------------
+Kullanıcı Girişi
+---------------------------------
+""")
 
 sys_kullaniciAdi = "Birkan"
 sys_parola = "123"
