@@ -37,7 +37,7 @@ while True:
             bakiye -= paraCek
             print("Kalan bakiye {} TL" .format(bakiye))
     else:
-        print("Geçersiz İşlem")
+        print("Geçersiz İşlem!!")
 
 
 
