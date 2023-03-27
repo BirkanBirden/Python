@@ -14,7 +14,7 @@ bakiye = 1000
 
 while True:
 
-    islem = int( input("İşlem Numarası giriniz.") )
+    islem = int( input("İşlem Numarası giriniz: ") )
     if  (islem == 4):
         print("Sağlıklı günler dileriz.")
         break
